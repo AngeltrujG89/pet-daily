@@ -1,0 +1,8 @@
+{
+  "name": "pet-daily",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5c327afb"
+}
